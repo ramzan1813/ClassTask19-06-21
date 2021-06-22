@@ -1,0 +1,10 @@
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\bin\Debug\Class task.exe.config
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\bin\Debug\Class task.exe
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\bin\Debug\Class task.pdb
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class task.csproj.AssemblyReference.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class_task.Form1.resources
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class_task.Properties.Resources.resources
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class task.csproj.GenerateResource.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class task.csproj.CoreCompileInputs.cache
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class task.exe
+C:\Users\ramza\OneDrive\Desktop\Study\6 Six Semester\Visual Programming\Assignement\Code\Task 190621\Class task\obj\Debug\Class task.pdb
